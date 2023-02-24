@@ -5,4 +5,4 @@ This project analyzes the data set of movies released in the past three years to
    <br>2. Project Description
    <br>3. Requirements
    <br>4. Contributing
-   <br>5. License</b>
+   <br>5. License
